@@ -114,7 +114,7 @@ int main() {
 	printf("Notas de 50: %i\n", n50);
 	printf("Notas de 20: %i\n", n20);
 	printf("Notas de 5:  %i\n", n5);
-	printf("Notas de 1:  %i\n", n1);
+	printf("Notas de 1:  %i\n", n1);    
 	valor = -21;
 	fazRetirada(valor);
 	printf("Valor: %i\n",valor);
